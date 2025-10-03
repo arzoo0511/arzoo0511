@@ -48,8 +48,8 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arzoo&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arzoo&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arzoo0511&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arzoo0511&theme=radical" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ### 🧩 Fun Zone
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzoo&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzoo0511&theme=react-dark" />
 </p>
 
 > 💡 *"Stay curious, stay creative — code your dreams into reality."*
@@ -75,8 +75,8 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="[https://github.com/arzoo0511]"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/arzoo-rai/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/arzoo0511"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arzoo-rai/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arzoorai26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
