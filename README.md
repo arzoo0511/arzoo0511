@@ -47,9 +47,9 @@
 
 ### 🚀 Featured Projects
 
-- 🧠 [AI Voicebot for Univest](#) — Conversational Voice AI powered by Exotel + Groq  
-- 📊 [Finance Q&A Chatbot](#) — Financial data chatbot using LangChain + PostgreSQL  
-- 💬 [Creative Writing Hub](#) — My collection of short stories and thoughts  
+-  [AI Voicebot for Univest](#) — Conversational Voice AI powered by Exotel + Groq  
+-  [Finance Q&A Chatbot](#) — Financial data chatbot using LangChain + PostgreSQL  
+-  [Creative Writing Hub](#) — My collection of short stories and thoughts  
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://github.com/arzoo0511"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
