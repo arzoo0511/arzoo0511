@@ -1,6 +1,6 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there 👋, I'm Arzoo</h1>
-<h3 align="center">💻 Creative Developer | 🎨 Writer | 🚀 Explorer | 📚 3rd Year CS Student</h3>
+<h1 align="center">Hey there , I'm Arzoo</h1>
+<h3 align="center"> Creative Developer |  Writer |  Explorer |  3rd Year CS Student</h3>
 
 <!-- Badges -->
 <p align="center">
@@ -13,24 +13,24 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🎓 **Computer Science Student** (3rd Year)  
-- 💬 Passionate about **AI, Voice Bots, and Full-Stack Development**  
-- ✍️ Love **writing, reading, and creating cool projects**  
-- ⚡ Exploring **new tech**, even when time’s short  
-- 🎯 Currently building: **AI Voicebot for Univest**
+- **Computer Science Student** (3rd Year)  
+- Passionate about **AI, Voice Bots, and Full-Stack Development**  
+- Love **writing, reading, and creating cool projects**  
+- Exploring **new tech**, even when time’s short  
+- Currently building: **AI Voicebot for Univest**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-#### 💻 Languages
+####  Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2b%2b)
 
-#### ⚙️ Frameworks & Tools
+####  Frameworks & Tools
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -38,19 +38,10 @@
 ![Groq](https://img.shields.io/badge/-Groq-000?&logo=groq)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
-#### 🧩 Currently Learning
+####  Currently Learning
 ![AI](https://img.shields.io/badge/-AI%20Development-000?&logo=openai)
 ![Voice Bots](https://img.shields.io/badge/-Voice%20Bots-000?&logo=soundcloud)
 ![Exotel](https://img.shields.io/badge/-Exotel-000?&logo=exotel)
-
----
-
-### ⚙️ GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arzoo0511&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arzoo0511&theme=radical" />
-</p>
 
 ---
 
@@ -62,12 +53,7 @@
 
 ---
 
-### 🧩 Fun Zone
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzoo0511&theme=react-dark" />
-</p>
-
+<
 > 💡 *"Stay curious, stay creative — code your dreams into reality."*
 
 ---
