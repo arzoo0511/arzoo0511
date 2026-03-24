@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there , I'm Arzoo</h1>
-<h3 align="center"> Creative Developer |  Writer |  Explorer |  3rd Year CS Student</h3>
+<h3 align="center"> Quant & Full Stack Developer |  Writer | 3rd Year CS Student</h3>
 
 <!-- Badges -->
 <p align="center">
