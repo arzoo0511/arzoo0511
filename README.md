@@ -182,7 +182,7 @@ class ArzooRai:
 
 <div align="center">
 
-### 💭 "Build. Learn. Repeat."
+### Wubba Lubba Dub Dub!"
 
 </div>
 
