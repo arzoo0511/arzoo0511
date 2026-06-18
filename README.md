@@ -23,13 +23,11 @@
 
 </div>
 
-# 👩‍💻 About Me
+About Me
+
 class ArzooRai:
-
     role = "AI Engineer & Full Stack Developer"
-
     education = "B.Tech Computer Science (AI)"
-
     interests = [
         "Artificial Intelligence",
         "Machine Learning",
@@ -37,17 +35,13 @@ class ArzooRai:
         "Open Source",
         "Writing"
     ]
-
     currently_building = [
         "SA-TJA",
         "EcoPlay",
         "Voice AI Systems"
     ]
-
     fun_fact = "I love turning ideas into products."
 
-
----
 
 # ⚡ Tech Arsenal
 
