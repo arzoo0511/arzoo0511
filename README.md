@@ -1,6 +1,4 @@
-# Full `README.md`
 
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Arzoo%20Rai&fontAlign=50&fontAlignY=40&fontSize=60&desc=AI%20Engineer%20|%20Quant%20Explorer%20|%20Builder&descAlignY=58"/>
@@ -25,11 +23,7 @@
 
 </div>
 
----
-
 # 👩‍💻 About Me
-
-```python
 class ArzooRai:
 
     role = "AI Engineer & Full Stack Developer"
@@ -51,7 +45,7 @@ class ArzooRai:
     ]
 
     fun_fact = "I love turning ideas into products."
-````
+
 
 ---
 
@@ -185,14 +179,13 @@ Financial data chatbot powered by LLMs.
 
 # 📚 Current Focus
 
-```text
+
 ✓ Artificial Intelligence
 ✓ Machine Learning
 ✓ Quantitative Finance
 ✓ Full Stack Development
 ✓ Open Source Contributions
 ✓ Building Real Products
-```
 
 ---
 
