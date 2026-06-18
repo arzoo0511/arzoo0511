@@ -1,7 +1,8 @@
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Arzoo%20Rai&fontAlign=50&fontAlignY=40&fontSize=60&desc=AI%20Engineer%20|%20Quant%20Explorer%20|%20Builder&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Arzoo%20Rai&fontAlign=50&fontAlignY=40&fontSize=60&desc=Building%20AI%20Systems%20•%20Exploring%20Quant%20Finance%20•%20Shipping%20Products&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Engineer;Quantitative+Finance+Explorer;Building+Voice+AI+Systems;Open+Source+Contributor;Always+Learning+New+Things"/>
 
@@ -23,11 +24,19 @@
 
 </div>
 
-About Me
+---
 
+## 👩‍💻 About Me
+
+```python
 class ArzooRai:
-    role = "AI Engineer & Full Stack Developer"
-    education = "B.Tech Computer Science (AI)"
+
+    role = "AI Engineer"
+
+    university = "Bennett University"
+
+    degree = "B.Tech Computer Science (AI)"
+
     interests = [
         "Artificial Intelligence",
         "Machine Learning",
@@ -35,81 +44,52 @@ class ArzooRai:
         "Open Source",
         "Writing"
     ]
+
     currently_building = [
         "SA-TJA",
         "EcoPlay",
-        "Voice AI Systems"
+        "Voice AI Agents"
     ]
-    fun_fact = "I love turning ideas into products."
 
+    motto = "Build things that matter."
 
-# ⚡ Tech Arsenal
+```
+---
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,flask,fastapi,mongodb,postgresql,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,flask,fastapi,mongodb,postgresql,git,github,vscode,figma&perline=5"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Currently Building
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 SA-TJA
-
-Stress Aware Traffic Jam Assist
-
-* Computer Vision
-* Trajectory Prediction
-* Reinforcement Learning
-* Autonomous Driving
-
-</td>
-
-<td width="50%">
-
-### 🎙️ Voice AI Platform
-
-* Groq
-* LangChain
-* Speech Recognition
-* Text To Speech
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🎓 Brainwave
-
-AI-powered learning platform.
-
-</td>
-
-<td>
-
-### 📈 Financial AI Assistant
-
-Financial data chatbot powered by LLMs.
-
-</td>
-</tr>
-</table>
+| Project               | Description                                        |
+| --------------------- | -------------------------------------------------- |
+| 🚗 SA-TJA             | Stress-Aware Traffic Jam Assist for Indian traffic |
+| 🎙️ Voice AI Platform | Conversational AI using LLMs, STT and TTS          |
+| 🎓 Brainwave          | AI-powered personalized learning platform          |
+| 🌱 EcoPlay            | Gamified sustainability platform                   |
 
 ---
 
-# 📌 Highlighted Repositories
+## 📊 GitHub Overview
 
 <div align="center">
 
-<a href="https://github.com/arzoo0511/SA-TJA">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arzoo0511&repo=SA-TJA&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arzoo0511&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📌 Featured Repositories
+
+<div align="center">
 
 <a href="https://github.com/arzoo0511/Brainwave">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=arzoo0511&repo=Brainwave&theme=tokyonight&hide_border=true"/>
@@ -117,9 +97,11 @@ Financial data chatbot powered by LLMs.
 
 </div>
 
+> Add more repository cards only after confirming the repository names exist publicly.
+
 ---
 
-# 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <div align="center">
 
@@ -131,7 +113,7 @@ Financial data chatbot powered by LLMs.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -141,7 +123,7 @@ Financial data chatbot powered by LLMs.
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -151,17 +133,7 @@ Financial data chatbot powered by LLMs.
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arzoo0511&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -171,19 +143,27 @@ Financial data chatbot powered by LLMs.
 
 ---
 
-# 📚 Current Focus
+## 🎯 2026 Goals
 
-
-✓ Artificial Intelligence
-✓ Machine Learning
-✓ Quantitative Finance
-✓ Full Stack Development
-✓ Open Source Contributions
-✓ Building Real Products
+* [ ] Publish SA-TJA
+* [ ] Land a Quant Internship
+* [ ] Reach 1000+ GitHub Contributions
+* [ ] Contribute to Major Open Source Projects
+* [ ] Build Production-Grade AI Agents
 
 ---
 
-# 🌐 Connect With Me
+## 🌱 Currently Learning
+
+* Quantitative Finance
+* Reinforcement Learning
+* Agentic AI Systems
+* Advanced Machine Learning
+* System Design
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -210,4 +190,7 @@ Financial data chatbot powered by LLMs.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
+```
+```
 
