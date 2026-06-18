@@ -1,123 +1,228 @@
+# Full `README.md`
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=250&section=header&text=Arzoo%20Rai&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+````md
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Arzoo%20Rai&fontAlign=50&fontAlignY=40&fontSize=60&desc=AI%20Engineer%20|%20Quant%20Explorer%20|%20Builder&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Engineer;Quantitative+Finance+Explorer;Building+Voice+AI+Systems;Open+Source+Contributor;Always+Learning+New+Things"/>
+
+<p>
+<a href="https://github.com/arzoo0511">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arzoo-rai/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:arzoorai26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
-<h3 align="center">
-AI Engineer • Quant Enthusiast • Full Stack Developer
-</h3>
+<img src="https://komarev.com/ghpvc/?username=arzoo0511&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 
-<p align="center">
-  <a href="https://github.com/arzoo0511">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;AI+Developer;Building+Voice+AI+Systems;Exploring+Quantitative+Finance;Open+Source+Contributor;Always+Learning+New+Things&font=Fira%20Code&center=true&width=650&height=45&color=7F3FBF&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/arzoo0511">
-    <img width="32px" src="https://skillicons.dev/icons?i=github"/>
-  </a>
+---
 
-  <a href="https://www.linkedin.com/in/arzoo-rai/">
-    <img width="32px" src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-
-  <a href="mailto:arzoorai26@gmail.com">
-    <img width="32px" src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arzoo0511&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/arzoo0511?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/arzoo0511?style=for-the-badge" />
-</p>
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 ```python
-class Arzoo:
+class ArzooRai:
 
     role = "AI Engineer & Full Stack Developer"
 
-    studying = "B.Tech CSE (AI)"
+    education = "B.Tech Computer Science (AI)"
 
     interests = [
         "Artificial Intelligence",
-        "Quantitative Finance",
         "Machine Learning",
+        "Quantitative Finance",
         "Open Source",
         "Writing"
     ]
 
     currently_building = [
         "SA-TJA",
-        "Ecoplay",
+        "EcoPlay",
         "Voice AI Systems"
     ]
-```
-<h2>⚙️ Tech Stack</h2>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,flask,fastapi,mongodb,postgresql,git,github,vscode" />
-</p>
+    fun_fact = "I love turning ideas into products."
+````
 
-## 🚀 Featured Projects
+---
+
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,react,nodejs,flask,fastapi,mongodb,postgresql,git,github,vscode,figma&perline=7"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🚗 SA-TJA
-Stress Aware Traffic Jam Assist for Indian traffic environments.
 
-### 🎙️ Univest Voice AI
-Conversational AI Voice Agent using LLMs and telephony.
+Stress Aware Traffic Jam Assist
+
+* Computer Vision
+* Trajectory Prediction
+* Reinforcement Learning
+* Autonomous Driving
+
+</td>
+
+<td width="50%">
+
+### 🎙️ Voice AI Platform
+
+* Groq
+* LangChain
+* Speech Recognition
+* Text To Speech
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🎓 Brainwave
-AI-powered education platform for personalized learning.
+
+AI-powered learning platform.
+
+</td>
+
+<td>
 
 ### 📈 Financial AI Assistant
-Financial chatbot using LangChain + PostgreSQL.
 
-<h2>📊 GitHub Stats</h2>
+Financial data chatbot powered by LLMs.
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arzoo0511&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
+
+---
+
+# 📌 Highlighted Repositories
+
+<div align="center">
+
+<a href="https://github.com/arzoo0511/SA-TJA">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arzoo0511&repo=SA-TJA&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/arzoo0511/Brainwave">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arzoo0511&repo=Brainwave&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arzoo0511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzoo0511&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arzoo0511&theme=tokyonight&hide_border=true"/>
-</p>
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
+</div>
 
-  workflow_dispatch:
+---
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# 📈 Contribution Graph
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: arzoo0511
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<div align="center">
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arzoo0511&theme=tokyo-night&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
-</p>
+</div>
 
+---
 
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arzoo0511&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arzoo0511/arzoo0511/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📚 Current Focus
+
+```text
+✓ Artificial Intelligence
+✓ Machine Learning
+✓ Quantitative Finance
+✓ Full Stack Development
+✓ Open Source Contributions
+✓ Building Real Products
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/arzoo0511">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arzoo-rai/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:arzoorai26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Build. Learn. Repeat."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
+```
+```
