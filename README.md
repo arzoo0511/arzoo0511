@@ -26,7 +26,7 @@
 
 ---
 
-## 👩‍💻 About Me
+### Lets talk about me!
 
 ```python
 class ArzooRai:
@@ -56,7 +56,7 @@ class ArzooRai:
 ```
 ---
 
-## ⚡ Tech Arsenal
+##  Tech I pretend to know too well (wink wink intended)
 
 <div align="center">
 
@@ -66,18 +66,18 @@ class ArzooRai:
 
 ---
 
-## 🚀 Currently Building
+##  Currently Building Hopefully 
 
 | Project               | Description                                        |
 | --------------------- | -------------------------------------------------- |
-| 🚗 SA-TJA             | Stress-Aware Traffic Jam Assist for Indian traffic |
-| 🎙️ Voice AI Platform | Conversational AI using LLMs, STT and TTS          |
-| 🎓 Brainwave          | AI-powered personalized learning platform          |
-| 🌱 EcoPlay            | Gamified sustainability platform                   |
+|    SA-TJA             | Stress-Aware Traffic Jam Assist for Indian traffic |
+|    Voice AI Platform  | Conversational AI using LLMs, STT and TTS          |
+|    Brainwave          | AI-powered personalized learning platform          |
+|    EcoPlay            | Gamified sustainability platform                   |
 
 ---
 
-## 📊 GitHub Overview
+##  Overview Of the Chaos
 
 <div align="center">
 
@@ -87,17 +87,15 @@ class ArzooRai:
 
 ---
 
-## 📌 Featured Repositories
+## 📌 A lil celebrity moment for this repo
 
 <div align="center">
 
-<a href="https://github.com/arzoo0511/Brainwave">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=arzoo0511&repo=Brainwave&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/arzoo0511/Ecoplay">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=arzoo0511&repo=Ecoplay&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
-
-> Add more repository cards only after confirming the repository names exist publicly.
 
 ---
 
@@ -113,7 +111,7 @@ class ArzooRai:
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <div align="center">
 
@@ -146,7 +144,7 @@ class ArzooRai:
 ## 🎯 2026 Goals
 
 * [ ] Publish SA-TJA
-* [ ] Land a Quant Internship
+* [ ] Land an amazing Internship
 * [ ] Reach 1000+ GitHub Contributions
 * [ ] Contribute to Major Open Source Projects
 * [ ] Build Production-Grade AI Agents
@@ -155,7 +153,6 @@ class ArzooRai:
 
 ## 🌱 Currently Learning
 
-* Quantitative Finance
 * Reinforcement Learning
 * Agentic AI Systems
 * Advanced Machine Learning
