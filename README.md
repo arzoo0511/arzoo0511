@@ -141,7 +141,7 @@ class ArzooRai:
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals i will maybe accomplish
 
 * [ ] Publish SA-TJA
 * [ ] Land an amazing Internship
@@ -151,16 +151,16 @@ class ArzooRai:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning 
 
 * Reinforcement Learning
 * Agentic AI Systems
 * Advanced Machine Learning
-* System Design
-
+* System Design      
+                    and painting 
 ---
 
-## 🌐 Connect With Me
+## Offer me a job ATP 
 
 <div align="center">
 
