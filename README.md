@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Arzoo%20Rai&fontAlign=50&fontAlignY=40&fontSize=60&desc=Building%20AI%20Systems%20•%20Exploring%20Quant%20Finance%20•%20Shipping%20Products&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Arzoo%20Rai&fontAlign=50&fontAlignY=40&fontSize=60&desc=Building%20AI%20Systems%20•%20Exploring%20Models%20AI%20•%20Shipping%20Products&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+Engineer;Quantitative+Finance+Explorer;Building+Voice+AI+Systems;Open+Source+Contributor;Always+Learning+New+Things"/>
 
